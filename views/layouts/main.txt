@@ -1,0 +1,2 @@
+Contains main layout for Blog
+i.e Header and Footer
